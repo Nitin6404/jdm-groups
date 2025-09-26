@@ -88,8 +88,6 @@ const Header = () => {
               onClick={() => scrollToSection("#home")}
               className="flex items-center"
             >
-              {/* <div className="text-2xl font-bold text-blue-900">JDM</div>
-              <div className="ml-2 text-sm text-gray-600">Groups</div> */}
               <img
                 src="/logo.png"
                 alt=""
@@ -253,7 +251,7 @@ const AboutUs = () => {
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div className="lg:text-center">
         <h2 className="text-base text-orange-500 font-semibold tracking-wide uppercase">
-          About JDM Group
+          About Ocean Link
         </h2>
         <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
           Building Logistics Excellence Since 1978
@@ -270,11 +268,11 @@ const AboutUs = () => {
               Our Legacy
             </h3>
             <p className="text-gray-600 mb-6">
-              JDM Group was conceptualized in 1978 by Mr. Pahlad Singh, evolving
-              from a transportation logistics firm to a fast-growing integrated
-              supply chain logistics enterprise. What started as a vision has
-              transformed into a comprehensive logistics powerhouse serving
-              clients across the globe.
+              Ocean Link was conceptualized in 1978 by Mr. Pahlad Singh,
+              evolving from a transportation logistics firm to a fast-growing
+              integrated supply chain logistics enterprise. What started as a
+              vision has transformed into a comprehensive logistics powerhouse
+              serving clients across the globe.
             </p>
             <p className="text-gray-600">
               Our journey of over four decades reflects our commitment to
@@ -289,9 +287,9 @@ const AboutUs = () => {
             </h3>
             <p className="text-gray-600 mb-6">
               Under the dynamic leadership of Chairman & Managing Director Mr.
-              Sahil Sehrawat, JDM Group is run by a team of dedicated and highly
-              experienced professionals. Our leadership combines decades of
-              industry experience with fresh perspectives on modern logistics
+              Sahil Sehrawat, Ocean Link is run by a team of dedicated and
+              highly experienced professionals. Our leadership combines decades
+              of industry experience with fresh perspectives on modern logistics
               challenges.
             </p>
             <p className="text-gray-600">
@@ -518,8 +516,8 @@ const GlobalNetwork = () => {
               <div className="mt-6 p-4 bg-blue-900 rounded-lg text-white">
                 <h4 className="font-semibold mb-2">Corporate Headquarters</h4>
                 <p className="text-sm">
-                  A-75, Road No: 4, Street No: 6, Mahipalpur Extension, New
-                  Delhi – 110037
+                  4C Asharoop Apartment, 1/135 Vikas Nagar, Kursi Road, Lucknow,
+                  Uttar Pradesh, India. 226022
                 </p>
               </div>
             </div>
@@ -533,8 +531,8 @@ const GlobalNetwork = () => {
 // Group Companies Component
 const GroupCompanies = () => {
   const companies = [
-    "JDM Worldwide Freight Solutions Pvt. Ltd.",
-    "JDM Cargo Planners Pvt. Ltd.",
+    "Ocean Link Worldwide Freight Solutions Pvt. Ltd.",
+    "Ocean Link Cargo Planners Pvt. Ltd.",
     "Arrow Transport Service",
     "A S Transport Service",
   ];
@@ -637,7 +635,7 @@ const Contact = () => {
                   <div className="flex items-center">
                     <MailIcon className="flex-shrink-0 h-6 w-6 text-orange-500" />
                     <p className="ml-3 text-base text-gray-500">
-                      info@jdmgroups.com
+                      info@oceanlink.com
                     </p>
                   </div>
                   <div className="flex items-center">
@@ -771,8 +769,8 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <div className="flex items-center mb-4">
-              <div className="text-2xl font-bold">JDM</div>
-              <div className="ml-2 text-sm text-gray-300">Groups</div>
+              <div className="text-2xl font-bold">Ocean</div>
+              <div className="ml-2 text-sm text-gray-300">Link</div>
             </div>
             <p className="text-gray-300 text-sm">
               Your trusted partner in global logistics since 1978. Connecting
@@ -834,7 +832,7 @@ const Footer = () => {
               <p>1/135 Vikas Nagar,Kursi Road</p>
               <p>Lucknow, Uttar Pradesh, India. 226022</p>
               <p>Phone: +91 – 7982306402, 8285832903, 7069540733, 7565944844</p>
-              <p>Email: info@jdmgroups.com</p>
+              <p>Email: info@oceanlink.com</p>
             </div>
           </div>
         </div>
@@ -842,7 +840,7 @@ const Footer = () => {
         <div className="mt-8 pt-8 border-t border-blue-800">
           <div className="text-center">
             <p className="text-sm text-gray-300">
-              © 2025 JDM Group of Companies - All Rights Reserved
+              © 2025 Ocean Link of Companies - All Rights Reserved
             </p>
           </div>
         </div>
