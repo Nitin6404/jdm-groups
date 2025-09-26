@@ -619,17 +619,19 @@ const Contact = () => {
                         Corporate Office
                       </p>
                       <p className="text-gray-500">
-                        A-75, Road No: 4, Street No: 6<br />
-                        Mahipalpur Extension
+                        4C Asharoop Apartment
                         <br />
-                        New Delhi – 110037, India
+                        1/135 Vikas Nagar Kursi Road,
+                        <br />
+                        Lucknow, Uttar Pradesh 226022 India.
                       </p>
                     </div>
                   </div>
                   <div className="flex items-center">
                     <PhoneCallIcon className="flex-shrink-0 h-6 w-6 text-orange-500" />
                     <p className="ml-3 text-base text-gray-500">
-                      +91 – 49707070 – 100 Lines
+                      +91 – 7982306402, 8285832903, 7069540733, 7565944844 – 100
+                      Lines
                     </p>
                   </div>
                   <div className="flex items-center">
@@ -829,9 +831,9 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4">Contact Info</h3>
             <div className="text-sm text-gray-300 space-y-2">
               <p>A-75, Road No: 4, Street No: 6</p>
-              <p>Mahipalpur Extension</p>
-              <p>New Delhi – 110037, India</p>
-              <p>Phone: +91 – 49707070</p>
+              <p>1/135 Vikas Nagar,Kursi Road</p>
+              <p>Lucknow, Uttar Pradesh, India. 226022</p>
+              <p>Phone: +91 – 7982306402, 8285832903, 7069540733, 7565944844</p>
               <p>Email: info@jdmgroups.com</p>
             </div>
           </div>
@@ -840,7 +842,7 @@ const Footer = () => {
         <div className="mt-8 pt-8 border-t border-blue-800">
           <div className="text-center">
             <p className="text-sm text-gray-300">
-              © 2022 JDM Group of Companies - All Rights Reserved
+              © 2025 JDM Group of Companies - All Rights Reserved
             </p>
           </div>
         </div>
